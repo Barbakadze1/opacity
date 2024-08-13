@@ -1,0 +1,39 @@
+body {
+   background-image: url("img.jpeg");
+   position: absolute;
+   width: 100%;
+   height:832px;
+   width: 1280px;
+}
+.div1 {
+    width: 293px;
+    height: 513px;
+    border: none;
+    background-color: #DBC50080;
+    opacity: 0.8;
+    display: inline-block;
+}
+.div2 {
+    width: 293px;
+    height: 513px;
+    border: none;
+    background-color: #DBC50066;
+    opacity: 0.8;
+    display: inline-block;
+}
+.div3 {
+    width: 293px;
+    height: 513px;
+    border: none;
+    background-color:#DBC500B2 ;
+    opacity: 0.8;
+    display: inline-block;
+}
+.div4 {
+    width: 293px;
+    height: 513px;
+    border: none;
+    background-color:#DBC50059 ;
+    opacity: 0.8;
+    display: inline-block;
+}
